@@ -381,9 +381,8 @@ def test_house_info_get_data_by_date_loop_module2(parse):
                 "0_test_comparators_0_type": "Subscript",
                 "0_test_comparators_0_value_type": "Name",
                 "0_test_comparators_0_value_id": "record",
-                "0_test_comparators_0_slice_type": "Index",
-                "0_test_comparators_0_slice_value_type": "Constant",
-                "0_test_comparators_0_slice_value_value": "date",
+                "0_test_comparators_0_slice_type": "Constant",
+                "0_test_comparators_0_slice_value": "date",
                 "0_body_0_type": "Expr",
                 "0_body_0_value_type": "Call",
                 "0_body_0_value_func_type": "Attribute",
@@ -393,9 +392,8 @@ def test_house_info_get_data_by_date_loop_module2(parse):
                 "0_body_0_value_args_0_type": "Subscript",
                 "0_body_0_value_args_0_value_type": "Name",
                 "0_body_0_value_args_0_value_id": "record",
-                "0_body_0_value_args_0_slice_type": "Index",
-                "0_body_0_value_args_0_slice_value_type": "Name",
-                "0_body_0_value_args_0_slice_value_id": "field"
+                "0_body_0_value_args_0_slice_type": "Name",
+                "0_body_0_value_args_0_slice_id": "field"
 
             }
         )
